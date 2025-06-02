@@ -1,2 +1,11 @@
 streamlit
-openai
+pandas
+pygooglenews
+python-dateutil
+together
+beautifulsoup4
+dateparser
+xlsxwriter
+bs4
+dateparser
+openpyxl
